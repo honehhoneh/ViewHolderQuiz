@@ -4,4 +4,59 @@
     <string name="action_gridview">GridView</string>
     <string name="listview_empty">There\'s no item in the listview.</string>
     <string name="gridview_empty">There\'s no item in the gridview.</string>
+
+    <string-array name="movie_name">
+        <item>Walang Forever</item>
+        <item>Extraction</item>
+        <item>Legend</item>
+        <item>Lumayo ka nga sa akin</item>
+        <item>Macbeth</item>
+        <item>Miss You Already</item>
+        <item>My BebeLove</item>
+        <item>Nilalang</item>
+        <item>The Snow Queen</item>
+        <item>Star Wars: The Force Awakens</item>
+        <item>Snoopy and Charlie Brown: The Peanuts Movie</item>
+        <item>Our Brand is Crisis</item>
+        <item>400 Days</item>
+        <item>The Revenant</item>
+        <item>Sherlock: The Abominable Bride</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Comedy</item>
+        <item>Action</item>
+        <item>Thriller</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Comedy</item>
+        <item>Comedy</item>
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Action/Sci-fi</item>
+        <item>Animation</item>
+        <item>Drama</item>
+        <item>Thriller/Sci-fi</item>
+        <item>Action/Adventure</item>
+        <item>Drama</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Mia, a celebrated writer of romantic-comedy films, is at a turning point in her life which makes it difficult for her to believe that love could last. Everything comes to a head when Ethan returns - only for her to find out that he has become a cynic of lasting love because she broke his heart.</item>
+        <item>A former CIA operative is kidnapped by a group of terrorists. When his son learns there is no plan for his father to be saved, he launches his own rescue operation.</item>
+        <item>The film tells the story of the identical twin gangsters Reggie and Ronnie Kray, two of the most notorious criminals in British history, and their organised crime empire in the East End of London during the 1960s.</item>
+        <item>The book is divided into three short films, each one pokes fun to a particular genre.Bala Sa Bala, Kamao Sa Kamao, Satsat Sa SatsatThe first film in the trilogy centers around Diego, an action star who wants to take revenge against a group of bad guys, also known as Bandidos (bandits), after they killed his parents, his wife, Ashley, and everyone who attended their wedding, just a few moments right after they get married at the beginning of the film. As the story unfolds, Diego, being an action star, gets into misadventures and finds himself in trouble-after-trouble. Unfortunately, Divina Tuazon, a famous actress and Diego\'s new found leading lady, was kidnapped by the Bandidos. Finally, in an abandoned warehouse (a setting where most of Pinoy action films\' final scenes takes place), Diego tries to save Divina from the evil hands of Bandido\'s merciless and heartless leader named Bos.  The plot generally follows themes from classic Filipino action movies, as well as comedy films from early 80\'s to 90\'s. For example, Diego\'s sidekicks, Dodoy and Momoy uses slapstick from time to time, a type of comedy which was very popular in the country for the past decades.Shake, Shaker, ShakestA family was forced to enter and live in a white house for several days after being stranded in an unfamiliar place. The title is play on the Shake, Rattle and Roll film series and the plot is a ludicrous horror film.Asawa ni MarieA rags-to-riches story about Marie, a poor girl who has a confusing status in life and love.  The plot is similar to telenovelas and Philippine teleseryes, particularly Marimar.</item>
+        <item>The ambition of Macbeth, the Thane of Scotland to be the King of Scotland, leads to the killing of his own king, King Duncan. His betrayal was successful and he took the kingdom throne for himself. But, his arrogance manner started murders, madness, and insecurity in the kingdom where he soon becomes a paranoia tyrant- that fears his own enmity.</item>
+        <item>The friendship between two life-long girlfriends is put to the test when one starts a family and the other falls ill.</item>
+        <item>Dondi (Alden Richards) is a nerd and an obedient nephew to his aunt (Ai-Ai de las Alas) who makes decisions for him. Meanwhile, Anna (Maine Mendoza) is a stubborn and rebellious girl who seeks the attention of her father (Vic Sotto). Dondi and Anna cross path and their different personalities collide. They eventually fall in love with each other and solve their own problems.</item>
+        <item>The story tells of Tony – an NBI agent hot on the trail of a series of rapes and killings that counts, among them, Tony’s girlfriend, Tin. With his co-agent, Jane, they follow leads that take them to a meeting with Miyuki, the daughter of Mr. Kazudo – an elder member of the Yakuza. Together, they come face-to-face with an enemy that transcends time; and leaves a trail of mindless, cold-blooded crime at its wake.</item>
+        <item>Wishing to create a new world where clean lines replace emotions and the polar wind cools human souls, the Snow Queen has blanketed the world in ice and set out to destroy all art. According to the predictions of a magic mirror, the last threat to the Snow Queen comes from the master glass-maker Vegard, whose mirrors reflect not only appearances but also souls. One day the polar wind takes away Vegard and his wife Una. But they manage to hide their baby-boy Kai and daughter Gerda.  Time passes, the servant of the Snow Queen finds Gerda’s brother Kai, whom he believes to be Vegard’s successor. When Kai is abducted to the Snow Queen\'s palace, Gerda embarks on a journey across the icy wonderland, facing difficult obstacles and finding new friends on her quest to set Kai free, defeat the Snow Queen and warm the hearts of people everywhere.</item>
+        <item>In this continuation of the epic space opera saga, a downed stormtrooper (John Boyega) goes on a journey reconnecting him with heroic faces from the past (Harrison Ford, Carrie Fisher and Mark Hamill).</item>
+        <item>Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.</item>
+        <item>A battle-hardened American political consultant is sent to help re-elect a controversial president in Bolivia, where she must compete with a long-term rival working for another candidate.</item>
+        <item>A psychological sci-fi film centering on four astronauts who are sent on a simulated mission to a distant planet to test the psychological effects of deep space travel. Locked away for 400 days, the crew’s mental state begins to deteriorate when they lose all communication with the outside world. Forced to exit the ship, they discover that this mission may not have been a simulation after all. </item>
+        <item>In an expedition of the uncharted American wilderness, legendary explorer Hugh Glass (Leonardo DiCaprio) is brutally attacked by a bear and left for dead by members of his own hunting team. In a quest to survive, Glass endures unimaginable grief as well as the betrayal of his confidant John Fitzgerald (Tom Hardy). Guided by sheer will and the love of his family, Glass must navigate a vicious winter in a relentless pursuit to live and find redemption. </item>
+        <item>Sherlock: The Abominable Bride will see Benedict Cumberbatch and Martin Freeman reprise their roles as Sherlock Holmes and Dr. John Watson in a one-off episode set in Victorian London in 1895. The episode has been co-written by Steven Moffat and Mark Gatiss with performances by Rupert Graves, Una Stubbs, Louise Brealey and Amanda Abbington. </item>
+
+    </string-array>
 </resources>
